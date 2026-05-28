@@ -1,0 +1,10 @@
+[github]
+#jin repositories ka data extract karna hai uski list 
+
+repositories = [
+    "pola-rs/polars",
+    "duckdb/duckdb",
+    "dlt-hub/dlt"
+]
+
+api_token = "env:GITHUB_TOKEN"

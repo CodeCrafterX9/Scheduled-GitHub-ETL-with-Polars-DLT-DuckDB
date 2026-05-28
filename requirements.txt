@@ -1,0 +1,5 @@
+requests==2.31.0
+toml==0.10.2
+polars==1.0.0
+duckdb==1.0.0
+dlt==0.4.5
